@@ -1,6 +1,6 @@
 .ORIG x3000
 ; perform C=A-B
-;Call Subroutine at x4000 
+;Call Subroutine at x4000 - use file named sub_routine.asm
 ;input arguments: R1 and R2
 ;Output: R0 = R1-R2
 
